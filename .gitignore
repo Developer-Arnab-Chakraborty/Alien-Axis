@@ -141,3 +141,19 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+.env
+.venv/
+
+build/
+dist/
+*.egg-info/
+
+.pytest_cache/
+.mypy_cache/
